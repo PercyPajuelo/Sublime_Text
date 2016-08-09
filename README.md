@@ -1,2 +1,2 @@
-# sublime_text
-Configuración para Sublime Text 3
+# Sublime Text
+Configuración para Sublime Text 3, se han instalado previos package.
