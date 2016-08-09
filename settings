@@ -1,0 +1,27 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Iridis Colour Scheme/Iridis Dark Blue.tmTheme",
+	"draw_minimap_border": true,
+	"font_face": "Hack",
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"show_tab_scroll_buttons": true,
+	"soda_classic_tabs": true,
+	"soda_rect_scrollbars": false,
+	"soda_tabs_autowidth": true,
+	"theme": "SoDaReloaded Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false,
+}
